@@ -1,0 +1,6 @@
+{
+  "name": "Guess the Object",
+  "description": "An addictive visual mystery game where you identify hidden objects as they gradually reveal. Featuring multiple reveal effects, game modes, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
